@@ -1,8 +1,3 @@
-# Gaming_arcade
-Here's a sample `README.md` for your GitHub project:
-
----
-
 # Gaming Arcade Expansion - Data Analysis and Dashboard
 
 This project focuses on the expansion of a gaming arcade by analyzing various datasets, cleaning the collected data, and presenting the findings in a comprehensive Power BI dashboard.
